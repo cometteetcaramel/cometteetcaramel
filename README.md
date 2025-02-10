@@ -2,7 +2,7 @@
 
 ## 🛡️ About Me
 
-Hi there! I'm **Seb**, a passionate cybersecurity learner aiming to break into the cybersecurity field. My goal is to develop expertise in ethical hacking, penetration testing, and digital security while continuously improving my skills.
+Hi there! I'm **Seb**, a passionate cybersecurity learner from Switzerland aiming to break into the cybersecurity field. My goal is to develop expertise in ethical hacking, penetration testing, and digital security while continuously improving my skills.
 
 - 🔐 **Cybersecurity Enthusiast** | Focused on penetration testing, threat analysis, and vulnerability assessments.
 - 📖 **Aspiring Cybersecurity Professional** | Currently learning and working towards a career in cybersecurity.

@@ -1,6 +1,6 @@
 # 👨‍💻 Cybersecurity Enthusiast | Penetration Tester | Ethical Hacker
 
-![Banner](https://user-images.githubusercontent.com/your-image-link/banner.png)
+![Banner](https://avatars.githubusercontent.com/u/53783384?v=4)
 
 ## 🛡️ About Me
 
@@ -38,7 +38,7 @@ Hi there! I'm **Seb**, a passionate cybersecurity learner aiming to break into t
 
 ## 🌐 Connect with Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourtelegramusername)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cometteetcaramel)
 
 ---
 

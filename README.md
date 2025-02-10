@@ -16,7 +16,7 @@ Hi there! I'm **Seb**, a passionate cybersecurity learner from Switzerland aimin
 
 ## ⚒️ Skills & Tools
 
-- 🔍 **Penetration Testing**: Metasploit, Burp Suite, Nmap, Aircrack-ng
+- 🔍 **Penetration Testing**: Metasploit, Burp Suite, Nmap, Aircrack-ng, and a lot more...
 - 🕵️ **OSINT & Forensics**: OSINT Framework, Sherlock
 - 🛠️ **Reverse Engineering & Cracking**: IDA, Binwalk, OllyDbg
 - 🔑 **Cryptography & Custom Exploit Development**

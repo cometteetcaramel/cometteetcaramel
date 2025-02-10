@@ -1,6 +1,4 @@
-# 👨‍💻 Cybersecurity Enthusiast | Penetration Tester | Ethical Hacker
-
-![Banner](https://avatars.githubusercontent.com/u/53783384?v=4)
+# 👨‍💻 Cybersecurity Enthusiast | Penetration Tester
 
 ## 🛡️ About Me
 

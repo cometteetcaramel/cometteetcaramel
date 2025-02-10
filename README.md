@@ -32,9 +32,9 @@ Hi there! I'm **Seb**, a passionate cybersecurity learner aiming to break into t
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cometteetcaramel&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cometteetcaramel&layout=compact&theme=radical)
 
 ## 🌐 Connect with Me
 

@@ -4,26 +4,31 @@
 
 ## 🛡️ About Me
 
-Hi there! I'm **[Your Name]**, a cybersecurity professional passionate about ethical hacking, penetration testing, and digital security. I thrive on securing systems, uncovering vulnerabilities, and sharing knowledge with the community.
+Hi there! I'm **Seb**, a passionate cybersecurity learner aiming to break into the cybersecurity field. My goal is to develop expertise in ethical hacking, penetration testing, and digital security while continuously improving my skills.
 
 - 🔐 **Cybersecurity Enthusiast** | Focused on penetration testing, threat analysis, and vulnerability assessments.
-- 💻 **Coding & Scripting** | Python, Bash, PowerShell, C, and more.
-- 🏴‍☠️ **CTF Player** | Active participant in CTF challenges (HackTheBox, TryHackMe, etc.).
+- 📖 **Aspiring Cybersecurity Professional** | Currently learning and working towards a career in cybersecurity.
+- 💻 **Coding & Scripting** | Python, Bash, PowerShell, and more.
 - 📚 **Lifelong Learner** | Exploring exploit development, malware analysis, and forensic investigations.
-- 📝 **Content Creator** | Writing blogs & sharing knowledge about security practices.
+- 🔓 **Cracking & Reverse Engineering** | Passionate about software cracking, debugging, and bypassing security mechanisms.
+- 🤖 **AI & Machine Learning Enthusiast** | Exploring AI applications in cybersecurity, automation, and ethical hacking.
+- 🔧 **Hardware & Microcontrollers** | Passionate about microcontrollers like Arduino, Raspberry Pi, and hardware gadgets.
+- 📝 **Content Creator** | Sharing knowledge about security practices.
+- 🚗 **Fun Fact** | I love cars, especially BMWs! I own a **1991 BMW E34 525i Alpineweiss 2** and a **1989 BMW M5 E34 3.6L Black 2**.
 
 ## ⚒️ Skills & Tools
+
+- 🔍 **Penetration Testing**: Metasploit, Burp Suite, Nmap, Aircrack-ng
+- 🕵️ **OSINT & Forensics**: OSINT Framework, Sherlock
+- 🛠️ **Reverse Engineering & Cracking**: IDA, Binwalk, OllyDbg
+- 🔑 **Cryptography & Custom Exploit Development**
+- 🌐 **Networking Expertise**: Strong knowledge of network protocols, packet analysis, and network security
+- 🔌 **Hardware Security & Microcontrollers**: Arduino, Raspberry Pi, ESP8266, Hardware Hacking
+- 🤖 **AI & Automation**: Exploring machine learning, AI-driven cybersecurity solutions, and automation tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-- 🔍 **Penetration Testing**: Kali Linux, Metasploit, Burp Suite, Nmap, Aircrack-ng
-- 🕵️ **OSINT & Forensics**: OSINT Framework, Autopsy, Volatility
-- 🛠️ **Reverse Engineering**: IDA, Ghidra, Radare2
-- 🔑 **Cryptography & Exploit Development**
 
 ## 📊 GitHub Stats
 
@@ -33,10 +38,8 @@ Hi there! I'm **[Your Name]**, a cybersecurity professional passionate about eth
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212121?style=for-the-badge&logo=tryhackme&logoColor=red)](https://tryhackme.com/p/yourusername)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourtelegramusername)
 
 ---
 
-💡 *"Security is not a product, but a process." - Bruce Schneier*
+💡 *"Commit your way to the Lord; trust in Him, and He will act. He will make your righteousness shine like the dawn, your justice like the noonday sun." - Psalm 37:5-6*

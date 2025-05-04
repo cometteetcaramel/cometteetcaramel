@@ -12,7 +12,7 @@ Hi there! I'm **Seb**, a passionate cybersecurity learner from Switzerland aimin
 - 🤖 **AI & Machine Learning Enthusiast** | Exploring AI applications in cybersecurity, automation, and ethical hacking.
 - 🔧 **Hardware & Microcontrollers** | Passionate about microcontrollers like Arduino, Raspberry Pi, and hardware gadgets.
 - 📝 **Content Creator** | Sharing knowledge about security practices.
-- 🚗 **Fun Fact** | I love cars, especially BMWs! I own a **1991 BMW E34 525i Alpineweiss 2** and a **1989 BMW M5 E34 3.6L Black 2**.
+- 🚗 **Fun Fact** | I love cars, especially BMWs! I own a **1991 BMW E34 525i Alpineweiss 2** and a **1995 BMW 320i E36 Carbrio Cosmos Black**.
 
 ## ⚒️ Skills & Tools
 
